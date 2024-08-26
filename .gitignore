@@ -1,0 +1,9 @@
+appendonlydir/
+nodes-6000.conf
+nodes-6001.conf
+nodes-6002.conf
+nodes-6003.conf
+nodes-6004.conf
+nodes-6005.conf
+dump.rdb
+nodes.conf
